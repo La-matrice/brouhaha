@@ -1,4 +1,7 @@
-Ce projet contient les éléments décrits ci-dessous.
+Ce projet consiste à développer un programme Python capable de générer des phrases grammaticalement correcte et aléatoirement.
+Pour y parvenir, le programme utilise plusieurs datasets.
+
+Les éléments téléchargeables sont décrits ci-dessous.
 
 'datas.zip' composé de fichiers au format txt utilisés pour l'entrainement du programme :
 - 'Dictionnaire.txt' contenant plus de 435 000 mots en français et leurs caractéristiques grammaticales
