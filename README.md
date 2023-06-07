@@ -11,7 +11,8 @@ Pour cela plusieurs sources sont disponibles en ligne, comme par exemple le proj
 Ce dictionnaire, dont le téléchargement est expliqué plus bas, se présente sous la forme d'un fichier texte et identifie un mot par ligne et un type de caractéristique par colonne (les colonnes sont séparées par le symbole "|").
 
 2) Phrases en français
-Pour compléter la richesse du dictionnaire et être en mesure d'éva
+Pour compléter la richesse du dictionnaire et permettre une évaluation cohérente, un second fichier texte est utilisé.
+Celui-ci contient une liste de phrases en français, issues de livres. Chaque ligne dispose d'une seule phrase et tous les mots sont séparés par le symbole "|" (dans le but d'accélérer le processus de recherche et de manipulation de caractères).
 
 4) Préparation des données
 La première étape consiste à 
