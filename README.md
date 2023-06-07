@@ -6,7 +6,7 @@ Pour y parvenir, le programme évalue les suites de mots les plus probables en u
 Voici les principales étapes de ce projet :
 
 1) Dictionnaire en français
-La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
+  La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
 Pour cela plusieurs sources sont disponibles en ligne, comme par exemple le projet OpenLexicon (http://www.lexique.org/).
 Ce dictionnaire, dont le téléchargement est expliqué plus bas, se présente sous la forme d'un fichier texte et identifie un mot par ligne et un type de caractéristique par colonne (les colonnes sont séparées par le symbole "|").
 
