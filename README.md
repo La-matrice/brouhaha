@@ -1,5 +1,5 @@
 Ce projet consiste à développer un programme Python capable de générer des phrases grammaticalement correctes et de manière aléatoire.
-Pour y parvenir, le programme utilise deux datasets:
+Pour y parvenir, le programme évalue les suites de mots les plus probables en utilisant deux datasets:
 - une base de données de phrases en français, toutes extraites de 7 livres distincts
 - et un dictionnaire, qui permet d'identifier la ou les formes grammaticales, le domaine et l'occurence (dans les phrases) de chaque mot.
 
@@ -8,9 +8,12 @@ Voici les principales étapes de ce projet :
 1) Dictionnaire en français
 La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
 Pour cela plusieurs sources sont disponibles en ligne, comme par exemple le projet OpenLexicon (http://www.lexique.org/).
-Ce dictionnaire se présente sous la forme d'un fichier texte et identifie un mot par ligne et un type de caractéristique par colonne (les colonnes sont séparées par le symbole "|").
+Ce dictionnaire, dont le téléchargement est expliqué plus bas, se présente sous la forme d'un fichier texte et identifie un mot par ligne et un type de caractéristique par colonne (les colonnes sont séparées par le symbole "|").
 
-3) Préparation des données
+2) Phrases en français
+Pour compléter la richesse du dictionnaire et être en mesure d'éva
+
+4) Préparation des données
 La première étape consiste à 
 
 
