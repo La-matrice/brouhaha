@@ -16,8 +16,11 @@ Celui-ci contient une liste de phrases en français, issues de livres. Chaque li
 
 3) Programme
 - Le programme fonctionne de manière très simple.
-Tout d'abord, l'utilisateur saisit le début d'une phrase (au moins deux mots).
-S'exécute alors la première phase du programme, qui consiste à identifier les mots saisis par l'utilisateur et d'en relever leur caractéristiques à l'aide de la base de données 'Dictionnaire.txt'.
+- Tout d'abord, l'utilisateur saisit le début d'une phrase d'au moins deux mots.
+S'exécute alors la première phase du programme. Celle-ci consiste à identifier les mots saisis par l'utilisateur et d'en relever leur caractéristiques à l'aide de la base de données 'Dictionnaire.txt'.
+Une fois tous les mots identifiés, le résultat est enregistré sous forme de tableau dans un fichier texte.
+- La phase suivante parcourt l'ensemble des mots préalablement identifiés et détermine la forme la plus probables de chaque mot.
+Si un mot possède plusieurs formes probables (comme par exemple le mot 'pas' qui est à la fois un nom et un adverbe), le programme évalue la forme la plus probable en calculant l'occurence de chaque mot dans le fichier 'Mots.txt' et ce, par rapport à sa position dans la phrase saisit par l'utilisateur.
 
 Les éléments téléchargeables sont décrits ci-dessous.
 
