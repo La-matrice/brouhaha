@@ -14,11 +14,7 @@ Ce dictionnaire, dont le téléchargement est expliqué plus bas, se présente s
 Pour compléter la richesse du dictionnaire et permettre une évaluation cohérente, un second fichier texte est utilisé.
 Celui-ci contient une liste de phrases en français, issues de livres. Chaque ligne dispose d'une seule phrase et tous les mots sont séparés par le symbole "|" (dans le but d'accélérer le processus de recherche et de manipulation de caractères).
 
-4) Préparation des données
-La première étape consiste à 
-
-
-
+3) Programme
 
 
 Les éléments téléchargeables sont décrits ci-dessous.
