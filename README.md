@@ -7,7 +7,7 @@ Pour réaliser ce projet de A à Z, voici les principales étapes :
 
 1) Dictionnaire en français
 La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
-Pour cela plusieurs sources sont disponibles en ligne comme par exemple le projet OpenLexicon (http://www.lexique.org/) ou 
+Pour cela plusieurs sources sont disponibles en ligne, comme par exemple le projet OpenLexicon (http://www.lexique.org/).
 
 
 3) Préparation des données
