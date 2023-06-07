@@ -6,16 +6,16 @@ Pour y parvenir, le programme évalue les suites de mots les plus probables en u
 Voici les principales étapes de ce projet :
 
 1) Dictionnaire en français
-La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
+- La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
 Pour cela plusieurs sources sont disponibles en ligne, comme par exemple le projet OpenLexicon (http://www.lexique.org/).
 Ce dictionnaire, dont le téléchargement est expliqué plus bas, se présente sous la forme d'un fichier texte et identifie un mot par ligne et un type de caractéristique par colonne (les colonnes sont séparées par le symbole "|").
 
 2) Phrases en français
-Pour compléter la richesse du dictionnaire et permettre une évaluation cohérente, un second fichier texte est utilisé.
+- Pour compléter la richesse du dictionnaire et permettre une évaluation cohérente, un second fichier texte est utilisé.
 Celui-ci contient une liste de phrases en français, issues de livres. Chaque ligne dispose d'une seule phrase et tous les mots sont séparés par le symbole "|" (dans le but d'accélérer le processus de recherche et de manipulation de caractères).
 
 3) Programme
-Le programme fonctionne de manière très simple.
+- Le programme fonctionne de manière très simple.
 Tout d'abord, l'utilisateur saisit le début d'une phrase (au moins deux mots).
 S'exécute alors la première phase du programme, qui consiste à identifier les mots saisis par l'utilisateur et d'en relever leur caractéristiques à l'aide de la base de données 'Dictionnaire.txt'.
 
