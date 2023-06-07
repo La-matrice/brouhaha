@@ -1,7 +1,7 @@
 Ce projet consiste à développer un programme Python capable de générer des phrases grammaticalement correcte et de manière aléatoirement.
 Pour y parvenir, le programme utilise deux datasets:
-- des phrases en français extraites de 7 livres distincts
-- un dictionnaire identifiant la ou les formes grammaticales, le domaine et l'occurence (dans les phrases) de chaque mot
+- une base de données de phrases en français, toutes extraites de 7 livres distincts
+- et d'un dictionnaire, qui permet d'identifier la ou les formes grammaticales, le domaine et l'occurence (dans les phrases) de chaque mot.
 
 Les éléments téléchargeables sont décrits ci-dessous.
 
