@@ -15,7 +15,9 @@ Pour compléter la richesse du dictionnaire et permettre une évaluation cohére
 Celui-ci contient une liste de phrases en français, issues de livres. Chaque ligne dispose d'une seule phrase et tous les mots sont séparés par le symbole "|" (dans le but d'accélérer le processus de recherche et de manipulation de caractères).
 
 3) Programme
-
+Le programme fonctionne de manière très simple.
+Tout d'abord, l'utilisateur saisit le début d'une phrase (au moins deux mots).
+S'exécute alors la première phase du programme, qui consiste à identifier les mots saisis par l'utilisateur et d'en relever leur caractéristiques à l'aide de la base de données 'Dictionnaire.txt'.
 
 Les éléments téléchargeables sont décrits ci-dessous.
 
