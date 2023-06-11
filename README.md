@@ -34,8 +34,8 @@ Les éléments téléchargeables sont décrits ci-dessous.
 'preparation_datas.zip' composé de deux programmes Python et du résultat de leur exécution :
 - 'A_identification_phrases_vers_mots.py'
 - 'B_conversion_mots_vers_formes.py'
-- 'Dictionnaire.txt'
-- 'Dictionnaire_Formes.txt'
-- 'Phrases.txt'
-- 'Resultat_Conversion.txt'
-- 'Resultat_Identification.txt'
+- 'dictionnaire.txt'
+- 'dictionnaire_formes.txt'
+- 'phrases.txt'
+- 'resultat_conversion.txt'
+- 'resultat_identification.txt'
