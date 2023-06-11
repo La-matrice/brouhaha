@@ -23,11 +23,19 @@ Une fois tous les mots identifiés, le résultat est enregistré sous forme de t
 Si un mot possède plusieurs formes probables (comme par exemple le mot 'pas' qui est à la fois un nom et un adverbe), le programme évalue la forme la plus probable en calculant l'occurence de chaque mot dans le fichier 'Mots.txt' et ce, par rapport à sa position dans la phrase saisit par l'utilisateur.
 - La troisième phase est dédiée à la prédiction du mot probable suivant.
 
+
 Les éléments téléchargeables sont décrits ci-dessous.
+
 'datas.zip' composé de fichiers au format txt utilisés pour l'entrainement du programme :
 - 'Dictionnaire.txt' contenant plus de 435 000 mots en français et leurs caractéristiques grammaticales
 - 'Mots.txt' contenant plus de 33 000 phrases en français et dont tous les mots sont séparés par le symbole '|'
 - 'Formes.txt' qui correspond au fichiers 'Mots.txt' mais pour lequel les mots ont été remplacés par leurs caractéristiques présentes dans le fichier 'Dictionnaire.txt'
 
-'preparation_datas.rar' composé de deux programmes Python et du résultat de leur exécution :
-- 'A_Identification'
+'preparation_datas.zip' composé de deux programmes Python et du résultat de leur exécution :
+- 'A_identification_phrases_vers_mots.py'
+- 'B_conversion_mots_vers_formes.py'
+- 'Dictionnaire.txt'
+- 'Dictionnaire_Formes.txt'
+- 'Phrases.txt'
+- 'Resultat_Conversion.txt'
+- 'Resultat_Identification.txt'
