@@ -1,4 +1,4 @@
-Ce projet consiste à développer un programme Python capable de générer des phrases grammaticalement correctes et de manière aléatoire.
+#  brouhaha, un programme capable de générer des phrases grammaticalement correctes et de manière aléatoire.
 
 #  Dictionnaire en français
 - La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
