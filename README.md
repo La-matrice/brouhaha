@@ -1,4 +1,4 @@
-#  ___ - brouhaha - ___ un programme capable de générer des phrases aléatoires grammaticalement correctes
+#  **brouhaha** est capable de générer des phrases aléatoires grammaticalement correctes
 
 ## Dictionnaire en français
 - La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
