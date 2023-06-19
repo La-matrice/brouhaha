@@ -1,15 +1,19 @@
 #  *Brouhaha est capable de générer des phrases aléatoires et grammaticalement correctes*
 
 ## Dictionnaire en français
-- La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
-Pour cela plusieurs sources sont disponibles en ligne, comme par exemple le [projet OpenLexicon](http://www.lexique.org/ "www.lexique.org").
-Ce dictionnaire, dont le téléchargement est expliqué plus bas, se présente sous la forme d'un fichier texte et identifie un mot par ligne et un type de caractéristique par colonne (les colonnes sont séparées par le symbole "|"). Il permet d'identifier la ou les formes grammaticales, le domaine et l'occurence (dans les phrases) de chaque mot.
+Le premier élément de ce projet est un fichier texte composé de l'ensemble des mots français ainsi que de leurs caractéristiques.
+Ce fichier a été formé sur la base de plusieurs sources dont certaines sont disponibles en ligne, comme par exemple le [projet OpenLexicon](http://www.lexique.org/ "www.lexique.org").
+L'objectif de ce dictionnaire est d'être en mesure d'identifier la ou les formes grammaticales, le domaine et l'occurence de chaque mot.
+La description des différents tags utilisés est disponible **ICI**.
 
 ## Phrases en français
-- Pour compléter la richesse du dictionnaire et permettre une évaluation cohérente, un second fichier texte est utilisé.
+- Pour compléter la richesse du dictionnaire et permettre une évaluation et une prédiction cohérentes, un second fichier texte est utilisé.
 Celui-ci contient une liste de phrases en français, issues de 7 livres distincts. Chaque ligne dispose d'une seule phrase et tous les mots sont séparés par le symbole "|" (dans le but d'accélérer le processus de recherche et de manipulation de caractères).
 
-## Programme
+## Entrainement du modèle
+- 
+
+## Utilisation du modèle entrainé
 - Le programme fonctionne de manière très simple.
 - Tout d'abord, l'utilisateur saisit le début d'une phrase d'au moins deux mots.
 S'exécute alors la première phase du programme. Celle-ci consiste à identifier les mots saisis par l'utilisateur et d'en relever leur caractéristiques à l'aide de la base de données 'Dictionnaire.txt'.
