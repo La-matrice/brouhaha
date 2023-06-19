@@ -1,9 +1,9 @@
 #  *Brouhaha est capable de générer des phrases aléatoires et grammaticalement correctes*
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrouhahabrewery.com.au%2F&psig=AOvVaw1j06uKHb8LN_A1ZLo1SpDj&ust=1687269016349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCpiIa9z_8CFQAAAAAdAAAAABAD">
- <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrouhahabrewery.com.au%2F&psig=AOvVaw1j06uKHb8LN_A1ZLo1SpDj&ust=1687269016349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCpiIa9z_8CFQAAAAAdAAAAABAD">
- <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrouhahabrewery.com.au%2F&psig=AOvVaw1j06uKHb8LN_A1ZLo1SpDj&ust=1687269016349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCpiIa9z_8CFQAAAAAdAAAAABAD">
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn.shopify.com/s/files/1/0481/4163/1647/files/Brouhaha-2021-logo-Final.png?v=1631767372">
+ <source media="(prefers-color-scheme: light)" srcset="https://cdn.shopify.com/s/files/1/0481/4163/1647/files/Brouhaha-2021-logo-Final.png?v=1631767372">
+ <img alt="YOUR-ALT-TEXT" src="https://cdn.shopify.com/s/files/1/0481/4163/1647/files/Brouhaha-2021-logo-Final.png?v=1631767372">
 </picture>
 
 
