@@ -3,8 +3,6 @@ Pour y parvenir, le programme évalue les suites de mots les plus probables en u
 - une base de données de phrases en français, toutes extraites de 7 livres distincts
 - et un dictionnaire, qui permet d'identifier la ou les formes grammaticales, le domaine et l'occurence (dans les phrases) de chaque mot.
 
-Voici les principales étapes de ce projet :
-
 1) Dictionnaire en français
 - La première étape consiste à former un dictionnaire composés de l'ensemble des mots du dictionnaire ainsi que de leurs caractéristiques.
 Pour cela plusieurs sources sont disponibles en ligne, comme par exemple le projet OpenLexicon (http://www.lexique.org/).
