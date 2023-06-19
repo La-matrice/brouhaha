@@ -1,5 +1,12 @@
 #  *Brouhaha est capable de générer des phrases aléatoires et grammaticalement correctes*
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrouhahabrewery.com.au%2F&psig=AOvVaw1j06uKHb8LN_A1ZLo1SpDj&ust=1687269016349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCpiIa9z_8CFQAAAAAdAAAAABAD">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrouhahabrewery.com.au%2F&psig=AOvVaw1j06uKHb8LN_A1ZLo1SpDj&ust=1687269016349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCpiIa9z_8CFQAAAAAdAAAAABAD">
+ <img alt="YOUR-ALT-TEXT" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrouhahabrewery.com.au%2F&psig=AOvVaw1j06uKHb8LN_A1ZLo1SpDj&ust=1687269016349000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCpiIa9z_8CFQAAAAAdAAAAABAD">
+</picture>
+
+
 ## Dictionnaire en français
 Le premier élément de ce projet est un fichier texte composé de l'ensemble des mots français ainsi que de leurs caractéristiques.
 Ce fichier a été formé sur la base de plusieurs sources dont certaines sont disponibles en ligne, comme par exemple le [projet OpenLexicon](http://www.lexique.org/ "www.lexique.org").
