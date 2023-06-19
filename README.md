@@ -4,9 +4,9 @@
  <img alt="YOUR-ALT-TEXT" src="https://cdn.shopify.com/s/files/1/0481/4163/1647/files/Brouhaha-2021-logo-Final.png?v=1631767372">
 </picture>
 
-#  *un programme capable de générer des phrases aléatoires et grammaticalement correctes*
+#  *un programme capable de générer des phrases aléatoires et grammaticalement correctes...*
 
-## Dictionnaire en français
+> ## Dictionnaire en français
 Le premier élément de ce projet est un fichier texte composé de l'ensemble des mots français ainsi que de leurs caractéristiques.
 Ce fichier a été formé sur la base de plusieurs sources dont certaines sont disponibles en ligne, comme par exemple le [projet OpenLexicon](http://www.lexique.org/ "www.lexique.org").
 L'objectif de ce dictionnaire est d'être en mesure d'identifier la ou les formes grammaticales, le domaine et l'occurence de chaque mot.
