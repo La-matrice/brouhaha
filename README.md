@@ -1,10 +1,6 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://age-verify.crucialcommerceapps.com/app/img/logo/Brouhaha%20Brewery%20Logo%20White_1620698403.png">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.shopify.com/s/files/1/0481/4163/1647/files/Brouhaha-2021-logo-Final.png?v=1631767372">
- <img alt="YOUR-ALT-TEXT" src="https://cdn.shopify.com/s/files/1/0481/4163/1647/files/Brouhaha-2021-logo-Final.png?v=1631767372">
-</picture>
+![00000](https://github.com/La-matrice/brouhaha/assets/134944500/fe0b540e-f96a-4e49-86f8-b320324420db)
 
-#  *un programme capable de générer des phrases aléatoires et grammaticalement correctes...*
+#  *Brouhaha est un programme capable de générer des phrases aléatoires et grammaticalement correctes...*
 
 
 > ## Dictionnaire en français
