@@ -1,5 +1,3 @@
-![00000](https://github.com/La-matrice/brouhaha/assets/134944500/fe0b540e-f96a-4e49-86f8-b320324420db)
-
 #  *Brouhaha est un programme capable de générer des phrases aléatoires et grammaticalement correctes...*
 
 
