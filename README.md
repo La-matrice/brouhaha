@@ -29,16 +29,13 @@ Si un mot possède plusieurs formes probables (comme par exemple le mot 'pas' qu
 
 > ##  Éléments téléchargeables
 
-'datas.zip' composé de fichiers au format txt utilisés pour l'entrainement du programme :
-- 'Dictionnaire.txt' contenant plus de 435 000 mots en français et leurs caractéristiques grammaticales
-- 'Mots.txt' contenant plus de 33 000 phrases en français et dont tous les mots sont séparés par le symbole '|'
-- 'Formes.txt' qui correspond au fichiers 'Mots.txt' mais pour lequel les mots ont été remplacés par leurs caractéristiques présentes dans le fichier 'Dictionnaire.txt'
+'brouhaha.zip' composé de fichiers au format txt et du programme *brouhaha* :
+- 'dictionnaire.txt' contenant plus de 435 000 mots en français et leurs caractéristiques grammaticales
+- 'mots.txt' contenant plus de 33 000 phrases en français et dont tous les mots sont séparés par le symbole '|'
+- 'silence.txt' qui correspond au fichier 'mots.txt' mais pour lequel les mots ont été remplacés par leur caractéristique la plus probable
+- 'brouhaha.py' qui permet d'exécuter le programme de génération de phrases
 
-'preparation_datas.zip' composé de deux programmes Python et du résultat de leur exécution :
-- 'A_identification_phrases_vers_mots.py'
-- 'B_conversion_mots_vers_formes.py'
-- 'dictionnaire.txt'
-- 'dictionnaire_formes.txt'
-- 'phrases.txt'
-- 'resultat_conversion.txt'
-- 'resultat_identification.txt'
+'entrainement.zip' composé de deux programmes d'entrainement du modèle *silence* et d'un fichier texte :
+- 'phrases.txt' contenant plus de 33 phrases en français
+- '1-traitement_texte_brut.py' qui permet de mettre en forme le fichier 'phrases.txt'
+- '2-evaluation_forme_probable.py' qui permet d'exécuter une évaluation profonde des formes probables de chaque phrase préalablement mise en forme
