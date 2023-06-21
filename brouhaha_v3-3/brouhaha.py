@@ -355,11 +355,11 @@ def prediction_forme():
             filtre_recherche = pd.DataFrame()
             nombre_de_lignes = 0
 
-            # rechercher uniquement les lignes qui contiennent la forme souhaitée
-            forme_recherche = formes_input[0][4][:FiltreForme]
+            # rechercher uniquement les lignes qui contiennent la première forme de la suite à rechercher
+            forme_recherche = formes_input[p][4][:FiltreForme]
             filtre_recherche = silence[silence[0].str.contains(forme_recherche)]
 
-            for i in range(p, x + 1):
+            for i in range(p + 1, x + 1):
 
                 forme_recherche = formes_input[i][4][:FiltreForme]
                 filtre_recherche = filtre_recherche[filtre_recherche[0].str.contains(forme_recherche)]
